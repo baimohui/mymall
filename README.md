@@ -1,29 +1,3 @@
-# mymall
+# 移动端购物商城
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+利用Vue.js框架模拟搭建一个移动端服装购物商城。通过使用vuecli脚手架和vuex等辅助工具来帮助实现项目的模块化和组件封装，利用axios来进行后台数据的请求。耗时约三个月，数据接口来源网络。
